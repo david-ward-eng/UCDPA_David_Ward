@@ -1,0 +1,441 @@
+,STAT_Pop,Year,Degree of Urbanisation,VALUE%_Pop,Statistic Label_Reason,Sex,Age Group,VALUE%_Reason
+448,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Cost,Male,18 - 29 years,56.6
+449,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Cost,Male,30 - 44 years,68.4
+450,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Cost,Male,45 - 59 years,61.2
+451,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Cost,Male,60 - 74 years,69.2
+452,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Cost,Male,75 years and over,60.0
+453,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Cost,Female,18 - 29 years,60.3
+454,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Cost,Female,30 - 44 years,67.5
+455,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Cost,Female,45 - 59 years,67.8
+456,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Cost,Female,60 - 74 years,60.6
+457,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Cost,Female,75 years and over,42.7
+458,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Inadequete public charging facilities,Male,18 - 29 years,18.4
+459,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Inadequete public charging facilities,Male,30 - 44 years,35.1
+460,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Inadequete public charging facilities,Male,45 - 59 years,35.7
+461,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Inadequete public charging facilities,Male,60 - 74 years,34.8
+462,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Inadequete public charging facilities,Male,75 years and over,23.9
+463,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Inadequete public charging facilities,Female,18 - 29 years,20.2
+464,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Inadequete public charging facilities,Female,30 - 44 years,29.4
+465,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Inadequete public charging facilities,Female,45 - 59 years,36.2
+466,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Inadequete public charging facilities,Female,60 - 74 years,27.5
+467,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Inadequete public charging facilities,Female,75 years and over,14.4
+468,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No/limited access to home charging,Male,18 - 29 years,16.2
+469,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No/limited access to home charging,Male,30 - 44 years,29.0
+470,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No/limited access to home charging,Male,45 - 59 years,21.6
+471,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No/limited access to home charging,Male,60 - 74 years,23.8
+472,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No/limited access to home charging,Male,75 years and over,18.1
+473,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No/limited access to home charging,Female,18 - 29 years,11.8
+474,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No/limited access to home charging,Female,30 - 44 years,26.1
+475,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No/limited access to home charging,Female,45 - 59 years,24.1
+476,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No/limited access to home charging,Female,60 - 74 years,15.3
+477,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No/limited access to home charging,Female,75 years and over,7.7
+478,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Limited range available,Male,18 - 29 years,6.6
+479,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Limited range available,Male,30 - 44 years,26.7
+480,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Limited range available,Male,45 - 59 years,25.3
+481,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Limited range available,Male,60 - 74 years,19.9
+482,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Limited range available,Male,75 years and over,12.6
+483,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Limited range available,Female,18 - 29 years,10.0
+484,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Limited range available,Female,30 - 44 years,24.7
+485,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Limited range available,Female,45 - 59 years,23.4
+486,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Limited range available,Female,60 - 74 years,16.0
+487,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Limited range available,Female,75 years and over,8.1
+488,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Don't drive/ own a car,Male,18 - 29 years,8.2
+489,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Don't drive/ own a car,Male,30 - 44 years,2.3
+490,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Don't drive/ own a car,Male,45 - 59 years,1.3
+491,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Don't drive/ own a car,Male,60 - 74 years,2.8
+492,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Don't drive/ own a car,Male,75 years and over,4.0
+493,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Don't drive/ own a car,Female,18 - 29 years,12.1
+494,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Don't drive/ own a car,Female,30 - 44 years,2.0
+495,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Don't drive/ own a car,Female,45 - 59 years,1.4
+496,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Don't drive/ own a car,Female,60 - 74 years,6.4
+497,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Don't drive/ own a car,Female,75 years and over,12.4
+498,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Resale value of EV,Male,18 - 29 years,4.7
+499,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Resale value of EV,Male,30 - 44 years,5.6
+500,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Resale value of EV,Male,45 - 59 years,5.3
+501,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Resale value of EV,Male,60 - 74 years,4.4
+502,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Resale value of EV,Male,75 years and over,3.4
+503,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Resale value of EV,Female,18 - 29 years,1.9
+504,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Resale value of EV,Female,30 - 44 years,2.7
+505,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Resale value of EV,Female,45 - 59 years,4.6
+506,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Resale value of EV,Female,60 - 74 years,2.9
+507,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Resale value of EV,Female,75 years and over,2.3
+508,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Reliability/ safety concerns,Male,18 - 29 years,1.2
+509,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Reliability/ safety concerns,Male,30 - 44 years,6.3
+510,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Reliability/ safety concerns,Male,45 - 59 years,8.4
+511,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Reliability/ safety concerns,Male,60 - 74 years,5.6
+512,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Reliability/ safety concerns,Male,75 years and over,5.1
+513,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Reliability/ safety concerns,Female,18 - 29 years,3.4
+514,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Reliability/ safety concerns,Female,30 - 44 years,3.8
+515,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Reliability/ safety concerns,Female,45 - 59 years,5.3
+516,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Reliability/ safety concerns,Female,60 - 74 years,5.0
+517,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Reliability/ safety concerns,Female,75 years and over,4.6
+518,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No need/ don't know enough,Male,18 - 29 years,0.0
+519,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No need/ don't know enough,Male,30 - 44 years,4.3
+520,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No need/ don't know enough,Male,45 - 59 years,3.7
+521,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No need/ don't know enough,Male,60 - 74 years,6.5
+522,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No need/ don't know enough,Male,75 years and over,10.5
+523,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No need/ don't know enough,Female,18 - 29 years,1.2
+524,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No need/ don't know enough,Female,30 - 44 years,2.8
+525,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No need/ don't know enough,Female,45 - 59 years,3.0
+526,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No need/ don't know enough,Female,60 - 74 years,9.6
+527,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,No need/ don't know enough,Female,75 years and over,11.0
+528,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not changing for a while,Male,18 - 29 years,3.6
+529,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not changing for a while,Male,30 - 44 years,1.1
+530,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not changing for a while,Male,45 - 59 years,1.4
+531,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not changing for a while,Male,60 - 74 years,0.8
+532,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not changing for a while,Male,75 years and over,1.4
+533,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not changing for a while,Female,18 - 29 years,7.2
+534,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not changing for a while,Female,30 - 44 years,1.0
+535,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not changing for a while,Female,45 - 59 years,1.3
+536,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not changing for a while,Female,60 - 74 years,1.0
+537,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not changing for a while,Female,75 years and over,0.3
+538,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not available at time of last purchase,Male,18 - 29 years,2.1
+539,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not available at time of last purchase,Male,30 - 44 years,0.0
+540,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not available at time of last purchase,Male,45 - 59 years,0.5
+541,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not available at time of last purchase,Male,60 - 74 years,0.7
+542,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not available at time of last purchase,Male,75 years and over,2.4
+543,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not available at time of last purchase,Female,18 - 29 years,2.2
+544,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not available at time of last purchase,Female,30 - 44 years,0.6
+545,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not available at time of last purchase,Female,45 - 59 years,1.6
+546,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not available at time of last purchase,Female,60 - 74 years,2.5
+547,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Not available at time of last purchase,Female,75 years and over,1.1
+548,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Other,Male,18 - 29 years,10.8
+549,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Other,Male,30 - 44 years,5.0
+550,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Other,Male,45 - 59 years,8.0
+551,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Other,Male,60 - 74 years,6.0
+552,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Other,Male,75 years and over,9.1
+553,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Other,Female,18 - 29 years,8.5
+554,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Other,Female,30 - 44 years,4.8
+555,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Other,Female,45 - 59 years,9.2
+556,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Other,Female,60 - 74 years,9.3
+557,Does not own an Electric Vehicle (EV),2021,Densely populated,95.2,Other,Female,75 years and over,10.2
+558,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Cost,Male,18 - 29 years,56.6
+559,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Cost,Male,30 - 44 years,68.4
+560,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Cost,Male,45 - 59 years,61.2
+561,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Cost,Male,60 - 74 years,69.2
+562,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Cost,Male,75 years and over,60.0
+563,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Cost,Female,18 - 29 years,60.3
+564,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Cost,Female,30 - 44 years,67.5
+565,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Cost,Female,45 - 59 years,67.8
+566,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Cost,Female,60 - 74 years,60.6
+567,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Cost,Female,75 years and over,42.7
+568,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Inadequete public charging facilities,Male,18 - 29 years,18.4
+569,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Inadequete public charging facilities,Male,30 - 44 years,35.1
+570,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Inadequete public charging facilities,Male,45 - 59 years,35.7
+571,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Inadequete public charging facilities,Male,60 - 74 years,34.8
+572,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Inadequete public charging facilities,Male,75 years and over,23.9
+573,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Inadequete public charging facilities,Female,18 - 29 years,20.2
+574,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Inadequete public charging facilities,Female,30 - 44 years,29.4
+575,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Inadequete public charging facilities,Female,45 - 59 years,36.2
+576,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Inadequete public charging facilities,Female,60 - 74 years,27.5
+577,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Inadequete public charging facilities,Female,75 years and over,14.4
+578,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No/limited access to home charging,Male,18 - 29 years,16.2
+579,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No/limited access to home charging,Male,30 - 44 years,29.0
+580,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No/limited access to home charging,Male,45 - 59 years,21.6
+581,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No/limited access to home charging,Male,60 - 74 years,23.8
+582,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No/limited access to home charging,Male,75 years and over,18.1
+583,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No/limited access to home charging,Female,18 - 29 years,11.8
+584,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No/limited access to home charging,Female,30 - 44 years,26.1
+585,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No/limited access to home charging,Female,45 - 59 years,24.1
+586,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No/limited access to home charging,Female,60 - 74 years,15.3
+587,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No/limited access to home charging,Female,75 years and over,7.7
+588,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Limited range available,Male,18 - 29 years,6.6
+589,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Limited range available,Male,30 - 44 years,26.7
+590,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Limited range available,Male,45 - 59 years,25.3
+591,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Limited range available,Male,60 - 74 years,19.9
+592,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Limited range available,Male,75 years and over,12.6
+593,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Limited range available,Female,18 - 29 years,10.0
+594,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Limited range available,Female,30 - 44 years,24.7
+595,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Limited range available,Female,45 - 59 years,23.4
+596,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Limited range available,Female,60 - 74 years,16.0
+597,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Limited range available,Female,75 years and over,8.1
+598,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Don't drive/ own a car,Male,18 - 29 years,8.2
+599,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Don't drive/ own a car,Male,30 - 44 years,2.3
+600,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Don't drive/ own a car,Male,45 - 59 years,1.3
+601,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Don't drive/ own a car,Male,60 - 74 years,2.8
+602,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Don't drive/ own a car,Male,75 years and over,4.0
+603,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Don't drive/ own a car,Female,18 - 29 years,12.1
+604,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Don't drive/ own a car,Female,30 - 44 years,2.0
+605,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Don't drive/ own a car,Female,45 - 59 years,1.4
+606,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Don't drive/ own a car,Female,60 - 74 years,6.4
+607,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Don't drive/ own a car,Female,75 years and over,12.4
+608,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Resale value of EV,Male,18 - 29 years,4.7
+609,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Resale value of EV,Male,30 - 44 years,5.6
+610,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Resale value of EV,Male,45 - 59 years,5.3
+611,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Resale value of EV,Male,60 - 74 years,4.4
+612,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Resale value of EV,Male,75 years and over,3.4
+613,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Resale value of EV,Female,18 - 29 years,1.9
+614,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Resale value of EV,Female,30 - 44 years,2.7
+615,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Resale value of EV,Female,45 - 59 years,4.6
+616,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Resale value of EV,Female,60 - 74 years,2.9
+617,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Resale value of EV,Female,75 years and over,2.3
+618,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Reliability/ safety concerns,Male,18 - 29 years,1.2
+619,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Reliability/ safety concerns,Male,30 - 44 years,6.3
+620,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Reliability/ safety concerns,Male,45 - 59 years,8.4
+621,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Reliability/ safety concerns,Male,60 - 74 years,5.6
+622,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Reliability/ safety concerns,Male,75 years and over,5.1
+623,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Reliability/ safety concerns,Female,18 - 29 years,3.4
+624,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Reliability/ safety concerns,Female,30 - 44 years,3.8
+625,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Reliability/ safety concerns,Female,45 - 59 years,5.3
+626,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Reliability/ safety concerns,Female,60 - 74 years,5.0
+627,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Reliability/ safety concerns,Female,75 years and over,4.6
+628,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No need/ don't know enough,Male,18 - 29 years,0.0
+629,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No need/ don't know enough,Male,30 - 44 years,4.3
+630,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No need/ don't know enough,Male,45 - 59 years,3.7
+631,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No need/ don't know enough,Male,60 - 74 years,6.5
+632,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No need/ don't know enough,Male,75 years and over,10.5
+633,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No need/ don't know enough,Female,18 - 29 years,1.2
+634,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No need/ don't know enough,Female,30 - 44 years,2.8
+635,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No need/ don't know enough,Female,45 - 59 years,3.0
+636,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No need/ don't know enough,Female,60 - 74 years,9.6
+637,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,No need/ don't know enough,Female,75 years and over,11.0
+638,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not changing for a while,Male,18 - 29 years,3.6
+639,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not changing for a while,Male,30 - 44 years,1.1
+640,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not changing for a while,Male,45 - 59 years,1.4
+641,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not changing for a while,Male,60 - 74 years,0.8
+642,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not changing for a while,Male,75 years and over,1.4
+643,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not changing for a while,Female,18 - 29 years,7.2
+644,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not changing for a while,Female,30 - 44 years,1.0
+645,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not changing for a while,Female,45 - 59 years,1.3
+646,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not changing for a while,Female,60 - 74 years,1.0
+647,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not changing for a while,Female,75 years and over,0.3
+648,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not available at time of last purchase,Male,18 - 29 years,2.1
+649,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not available at time of last purchase,Male,30 - 44 years,0.0
+650,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not available at time of last purchase,Male,45 - 59 years,0.5
+651,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not available at time of last purchase,Male,60 - 74 years,0.7
+652,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not available at time of last purchase,Male,75 years and over,2.4
+653,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not available at time of last purchase,Female,18 - 29 years,2.2
+654,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not available at time of last purchase,Female,30 - 44 years,0.6
+655,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not available at time of last purchase,Female,45 - 59 years,1.6
+656,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not available at time of last purchase,Female,60 - 74 years,2.5
+657,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Not available at time of last purchase,Female,75 years and over,1.1
+658,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Other,Male,18 - 29 years,10.8
+659,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Other,Male,30 - 44 years,5.0
+660,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Other,Male,45 - 59 years,8.0
+661,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Other,Male,60 - 74 years,6.0
+662,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Other,Male,75 years and over,9.1
+663,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Other,Female,18 - 29 years,8.5
+664,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Other,Female,30 - 44 years,4.8
+665,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Other,Female,45 - 59 years,9.2
+666,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Other,Female,60 - 74 years,9.3
+667,Does not own an Electric Vehicle (EV),2021,Intermediate populated,96.7,Other,Female,75 years and over,10.2
+668,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Cost,Male,18 - 29 years,56.6
+669,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Cost,Male,30 - 44 years,68.4
+670,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Cost,Male,45 - 59 years,61.2
+671,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Cost,Male,60 - 74 years,69.2
+672,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Cost,Male,75 years and over,60.0
+673,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Cost,Female,18 - 29 years,60.3
+674,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Cost,Female,30 - 44 years,67.5
+675,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Cost,Female,45 - 59 years,67.8
+676,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Cost,Female,60 - 74 years,60.6
+677,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Cost,Female,75 years and over,42.7
+678,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Inadequete public charging facilities,Male,18 - 29 years,18.4
+679,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Inadequete public charging facilities,Male,30 - 44 years,35.1
+680,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Inadequete public charging facilities,Male,45 - 59 years,35.7
+681,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Inadequete public charging facilities,Male,60 - 74 years,34.8
+682,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Inadequete public charging facilities,Male,75 years and over,23.9
+683,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Inadequete public charging facilities,Female,18 - 29 years,20.2
+684,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Inadequete public charging facilities,Female,30 - 44 years,29.4
+685,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Inadequete public charging facilities,Female,45 - 59 years,36.2
+686,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Inadequete public charging facilities,Female,60 - 74 years,27.5
+687,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Inadequete public charging facilities,Female,75 years and over,14.4
+688,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No/limited access to home charging,Male,18 - 29 years,16.2
+689,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No/limited access to home charging,Male,30 - 44 years,29.0
+690,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No/limited access to home charging,Male,45 - 59 years,21.6
+691,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No/limited access to home charging,Male,60 - 74 years,23.8
+692,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No/limited access to home charging,Male,75 years and over,18.1
+693,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No/limited access to home charging,Female,18 - 29 years,11.8
+694,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No/limited access to home charging,Female,30 - 44 years,26.1
+695,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No/limited access to home charging,Female,45 - 59 years,24.1
+696,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No/limited access to home charging,Female,60 - 74 years,15.3
+697,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No/limited access to home charging,Female,75 years and over,7.7
+698,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Limited range available,Male,18 - 29 years,6.6
+699,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Limited range available,Male,30 - 44 years,26.7
+700,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Limited range available,Male,45 - 59 years,25.3
+701,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Limited range available,Male,60 - 74 years,19.9
+702,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Limited range available,Male,75 years and over,12.6
+703,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Limited range available,Female,18 - 29 years,10.0
+704,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Limited range available,Female,30 - 44 years,24.7
+705,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Limited range available,Female,45 - 59 years,23.4
+706,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Limited range available,Female,60 - 74 years,16.0
+707,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Limited range available,Female,75 years and over,8.1
+708,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Don't drive/ own a car,Male,18 - 29 years,8.2
+709,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Don't drive/ own a car,Male,30 - 44 years,2.3
+710,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Don't drive/ own a car,Male,45 - 59 years,1.3
+711,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Don't drive/ own a car,Male,60 - 74 years,2.8
+712,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Don't drive/ own a car,Male,75 years and over,4.0
+713,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Don't drive/ own a car,Female,18 - 29 years,12.1
+714,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Don't drive/ own a car,Female,30 - 44 years,2.0
+715,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Don't drive/ own a car,Female,45 - 59 years,1.4
+716,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Don't drive/ own a car,Female,60 - 74 years,6.4
+717,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Don't drive/ own a car,Female,75 years and over,12.4
+718,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Resale value of EV,Male,18 - 29 years,4.7
+719,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Resale value of EV,Male,30 - 44 years,5.6
+720,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Resale value of EV,Male,45 - 59 years,5.3
+721,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Resale value of EV,Male,60 - 74 years,4.4
+722,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Resale value of EV,Male,75 years and over,3.4
+723,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Resale value of EV,Female,18 - 29 years,1.9
+724,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Resale value of EV,Female,30 - 44 years,2.7
+725,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Resale value of EV,Female,45 - 59 years,4.6
+726,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Resale value of EV,Female,60 - 74 years,2.9
+727,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Resale value of EV,Female,75 years and over,2.3
+728,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Reliability/ safety concerns,Male,18 - 29 years,1.2
+729,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Reliability/ safety concerns,Male,30 - 44 years,6.3
+730,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Reliability/ safety concerns,Male,45 - 59 years,8.4
+731,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Reliability/ safety concerns,Male,60 - 74 years,5.6
+732,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Reliability/ safety concerns,Male,75 years and over,5.1
+733,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Reliability/ safety concerns,Female,18 - 29 years,3.4
+734,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Reliability/ safety concerns,Female,30 - 44 years,3.8
+735,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Reliability/ safety concerns,Female,45 - 59 years,5.3
+736,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Reliability/ safety concerns,Female,60 - 74 years,5.0
+737,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Reliability/ safety concerns,Female,75 years and over,4.6
+738,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No need/ don't know enough,Male,18 - 29 years,0.0
+739,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No need/ don't know enough,Male,30 - 44 years,4.3
+740,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No need/ don't know enough,Male,45 - 59 years,3.7
+741,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No need/ don't know enough,Male,60 - 74 years,6.5
+742,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No need/ don't know enough,Male,75 years and over,10.5
+743,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No need/ don't know enough,Female,18 - 29 years,1.2
+744,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No need/ don't know enough,Female,30 - 44 years,2.8
+745,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No need/ don't know enough,Female,45 - 59 years,3.0
+746,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No need/ don't know enough,Female,60 - 74 years,9.6
+747,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,No need/ don't know enough,Female,75 years and over,11.0
+748,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not changing for a while,Male,18 - 29 years,3.6
+749,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not changing for a while,Male,30 - 44 years,1.1
+750,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not changing for a while,Male,45 - 59 years,1.4
+751,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not changing for a while,Male,60 - 74 years,0.8
+752,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not changing for a while,Male,75 years and over,1.4
+753,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not changing for a while,Female,18 - 29 years,7.2
+754,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not changing for a while,Female,30 - 44 years,1.0
+755,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not changing for a while,Female,45 - 59 years,1.3
+756,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not changing for a while,Female,60 - 74 years,1.0
+757,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not changing for a while,Female,75 years and over,0.3
+758,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not available at time of last purchase,Male,18 - 29 years,2.1
+759,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not available at time of last purchase,Male,30 - 44 years,0.0
+760,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not available at time of last purchase,Male,45 - 59 years,0.5
+761,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not available at time of last purchase,Male,60 - 74 years,0.7
+762,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not available at time of last purchase,Male,75 years and over,2.4
+763,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not available at time of last purchase,Female,18 - 29 years,2.2
+764,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not available at time of last purchase,Female,30 - 44 years,0.6
+765,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not available at time of last purchase,Female,45 - 59 years,1.6
+766,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not available at time of last purchase,Female,60 - 74 years,2.5
+767,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Not available at time of last purchase,Female,75 years and over,1.1
+768,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Other,Male,18 - 29 years,10.8
+769,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Other,Male,30 - 44 years,5.0
+770,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Other,Male,45 - 59 years,8.0
+771,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Other,Male,60 - 74 years,6.0
+772,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Other,Male,75 years and over,9.1
+773,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Other,Female,18 - 29 years,8.5
+774,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Other,Female,30 - 44 years,4.8
+775,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Other,Female,45 - 59 years,9.2
+776,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Other,Female,60 - 74 years,9.3
+777,Does not own an Electric Vehicle (EV),2021,Thinly populated,98.1,Other,Female,75 years and over,10.2
+778,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Cost,Male,18 - 29 years,56.6
+779,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Cost,Male,30 - 44 years,68.4
+780,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Cost,Male,45 - 59 years,61.2
+781,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Cost,Male,60 - 74 years,69.2
+782,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Cost,Male,75 years and over,60.0
+783,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Cost,Female,18 - 29 years,60.3
+784,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Cost,Female,30 - 44 years,67.5
+785,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Cost,Female,45 - 59 years,67.8
+786,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Cost,Female,60 - 74 years,60.6
+787,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Cost,Female,75 years and over,42.7
+788,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Inadequete public charging facilities,Male,18 - 29 years,18.4
+789,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Inadequete public charging facilities,Male,30 - 44 years,35.1
+790,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Inadequete public charging facilities,Male,45 - 59 years,35.7
+791,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Inadequete public charging facilities,Male,60 - 74 years,34.8
+792,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Inadequete public charging facilities,Male,75 years and over,23.9
+793,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Inadequete public charging facilities,Female,18 - 29 years,20.2
+794,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Inadequete public charging facilities,Female,30 - 44 years,29.4
+795,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Inadequete public charging facilities,Female,45 - 59 years,36.2
+796,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Inadequete public charging facilities,Female,60 - 74 years,27.5
+797,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Inadequete public charging facilities,Female,75 years and over,14.4
+798,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No/limited access to home charging,Male,18 - 29 years,16.2
+799,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No/limited access to home charging,Male,30 - 44 years,29.0
+800,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No/limited access to home charging,Male,45 - 59 years,21.6
+801,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No/limited access to home charging,Male,60 - 74 years,23.8
+802,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No/limited access to home charging,Male,75 years and over,18.1
+803,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No/limited access to home charging,Female,18 - 29 years,11.8
+804,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No/limited access to home charging,Female,30 - 44 years,26.1
+805,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No/limited access to home charging,Female,45 - 59 years,24.1
+806,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No/limited access to home charging,Female,60 - 74 years,15.3
+807,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No/limited access to home charging,Female,75 years and over,7.7
+808,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Limited range available,Male,18 - 29 years,6.6
+809,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Limited range available,Male,30 - 44 years,26.7
+810,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Limited range available,Male,45 - 59 years,25.3
+811,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Limited range available,Male,60 - 74 years,19.9
+812,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Limited range available,Male,75 years and over,12.6
+813,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Limited range available,Female,18 - 29 years,10.0
+814,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Limited range available,Female,30 - 44 years,24.7
+815,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Limited range available,Female,45 - 59 years,23.4
+816,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Limited range available,Female,60 - 74 years,16.0
+817,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Limited range available,Female,75 years and over,8.1
+818,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Don't drive/ own a car,Male,18 - 29 years,8.2
+819,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Don't drive/ own a car,Male,30 - 44 years,2.3
+820,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Don't drive/ own a car,Male,45 - 59 years,1.3
+821,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Don't drive/ own a car,Male,60 - 74 years,2.8
+822,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Don't drive/ own a car,Male,75 years and over,4.0
+823,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Don't drive/ own a car,Female,18 - 29 years,12.1
+824,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Don't drive/ own a car,Female,30 - 44 years,2.0
+825,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Don't drive/ own a car,Female,45 - 59 years,1.4
+826,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Don't drive/ own a car,Female,60 - 74 years,6.4
+827,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Don't drive/ own a car,Female,75 years and over,12.4
+828,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Resale value of EV,Male,18 - 29 years,4.7
+829,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Resale value of EV,Male,30 - 44 years,5.6
+830,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Resale value of EV,Male,45 - 59 years,5.3
+831,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Resale value of EV,Male,60 - 74 years,4.4
+832,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Resale value of EV,Male,75 years and over,3.4
+833,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Resale value of EV,Female,18 - 29 years,1.9
+834,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Resale value of EV,Female,30 - 44 years,2.7
+835,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Resale value of EV,Female,45 - 59 years,4.6
+836,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Resale value of EV,Female,60 - 74 years,2.9
+837,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Resale value of EV,Female,75 years and over,2.3
+838,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Reliability/ safety concerns,Male,18 - 29 years,1.2
+839,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Reliability/ safety concerns,Male,30 - 44 years,6.3
+840,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Reliability/ safety concerns,Male,45 - 59 years,8.4
+841,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Reliability/ safety concerns,Male,60 - 74 years,5.6
+842,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Reliability/ safety concerns,Male,75 years and over,5.1
+843,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Reliability/ safety concerns,Female,18 - 29 years,3.4
+844,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Reliability/ safety concerns,Female,30 - 44 years,3.8
+845,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Reliability/ safety concerns,Female,45 - 59 years,5.3
+846,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Reliability/ safety concerns,Female,60 - 74 years,5.0
+847,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Reliability/ safety concerns,Female,75 years and over,4.6
+848,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No need/ don't know enough,Male,18 - 29 years,0.0
+849,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No need/ don't know enough,Male,30 - 44 years,4.3
+850,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No need/ don't know enough,Male,45 - 59 years,3.7
+851,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No need/ don't know enough,Male,60 - 74 years,6.5
+852,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No need/ don't know enough,Male,75 years and over,10.5
+853,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No need/ don't know enough,Female,18 - 29 years,1.2
+854,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No need/ don't know enough,Female,30 - 44 years,2.8
+855,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No need/ don't know enough,Female,45 - 59 years,3.0
+856,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No need/ don't know enough,Female,60 - 74 years,9.6
+857,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,No need/ don't know enough,Female,75 years and over,11.0
+858,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not changing for a while,Male,18 - 29 years,3.6
+859,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not changing for a while,Male,30 - 44 years,1.1
+860,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not changing for a while,Male,45 - 59 years,1.4
+861,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not changing for a while,Male,60 - 74 years,0.8
+862,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not changing for a while,Male,75 years and over,1.4
+863,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not changing for a while,Female,18 - 29 years,7.2
+864,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not changing for a while,Female,30 - 44 years,1.0
+865,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not changing for a while,Female,45 - 59 years,1.3
+866,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not changing for a while,Female,60 - 74 years,1.0
+867,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not changing for a while,Female,75 years and over,0.3
+868,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not available at time of last purchase,Male,18 - 29 years,2.1
+869,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not available at time of last purchase,Male,30 - 44 years,0.0
+870,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not available at time of last purchase,Male,45 - 59 years,0.5
+871,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not available at time of last purchase,Male,60 - 74 years,0.7
+872,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not available at time of last purchase,Male,75 years and over,2.4
+873,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not available at time of last purchase,Female,18 - 29 years,2.2
+874,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not available at time of last purchase,Female,30 - 44 years,0.6
+875,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not available at time of last purchase,Female,45 - 59 years,1.6
+876,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not available at time of last purchase,Female,60 - 74 years,2.5
+877,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Not available at time of last purchase,Female,75 years and over,1.1
+878,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Other,Male,18 - 29 years,10.8
+879,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Other,Male,30 - 44 years,5.0
+880,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Other,Male,45 - 59 years,8.0
+881,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Other,Male,60 - 74 years,6.0
+882,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Other,Male,75 years and over,9.1
+883,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Other,Female,18 - 29 years,8.5
+884,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Other,Female,30 - 44 years,4.8
+885,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Other,Female,45 - 59 years,9.2
+886,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Other,Female,60 - 74 years,9.3
+887,Does not own an Electric Vehicle (EV),2021,All degrees of urbanisation,96.8,Other,Female,75 years and over,10.2
